@@ -75,6 +75,7 @@ section:first-child {
 }
 
 .section-center {
+    min-width: 1400px;
     margin: auto;
 }
 
