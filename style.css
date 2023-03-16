@@ -60,14 +60,17 @@ section:first-child {
 }
 
 .section-long {
+    min-width: 1400px;
     padding-bottom: 150px;
 }
 
 .section-full {
+    min-width: 1400px;
     width: 100%;
 }
 
 .section-nopadd {
+    min-width: 1400px;
     padding: 0;
 }
 
@@ -76,6 +79,7 @@ section:first-child {
 }
 
 .container-black {
+    min-width: 1400px;
     background-color: #000;
     color: #FFFFFF;
 }
